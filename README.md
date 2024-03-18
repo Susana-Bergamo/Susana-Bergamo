@@ -42,4 +42,11 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
   </a>
   
 ###### Também pode me encontra como Staff na comunidade Girls Testing em:
+<a href="https://www.instagram.com/girls.testing/">
+   <img src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/Subcabe%C3%A7alho.jpg" width="50"/>
+  </a>
+ <a href="https://www.youtube.com/@GirlsTesting">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+
 
