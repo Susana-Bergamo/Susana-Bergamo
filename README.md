@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/profile.pic.jpg" width="400"/>
+<img align="right" src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/profile.pic.jpg" width="250"/>
 
 ## Hello World! 👩🏻‍💻
 *Transformando Bugs em Sorrisos!🐞 🚀*
