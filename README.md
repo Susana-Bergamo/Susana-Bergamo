@@ -1,3 +1,6 @@
+<h1 align="center">Welcome!</h1><img align="right" src="profile.pic.png" width="350"/>
+
+
 ## Hello World! 👩🏻‍💻
 *Transformando Bugs em Sorrisos!🐞 🚀*
 *🔍 Especialista em Quality Assurance | Testes de Software 🔍*
