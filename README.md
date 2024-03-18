@@ -1,16 +1,43 @@
-### Hi there 👋
+## Hello World! 👩🏻‍💻
+*Transformando Bugs em Sorrisos!🐞 🚀*
+*🔍 Especialista em Quality Assurance | Testes de Software 🔍*
 
-<!--
-**Susana-Bergamo/Susana-Bergamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💁🏻‍♀️ **Sobre mim**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonada por desafios e aprendizado constante, sou uma profissional proativa que busca soluções inovadoras e entrega resultados de alto valor. Acredito na colaboração e no aprendizado mútuo, sempre buscando contribuir de forma significativa para o crescimento da equipe e da empresa.
+
+🔍 **Minha experiência:**
+
+  [CV](https://www.canva.com/design/DAF_274Vyew/bwVCUuu1Ca3bhOTWJ0O7-Q/view?utm_content=DAF_274Vyew&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
+ Especialista em testes: Possuo vasta experiência na realização de testes manuais e automatizados, utilizando diferentes metodologias e ferramentas.
+ Metodologias ágeis: Atuei em projetos com metodologia Scrum, participando ativamente de todas as cerimônias (Planning, Daily, Retro e Review).
+
+⚙ **Habilidades técnicas:** Linguagens de programação: Java e JavaScript (básico)
+
+✅ **Tecnologias de teste:** Selenium, CodeceptJS, Restassured, Cucumber Options e Page Objects
+
+✅ **Ferramentas:** Postman, JUnit, Eclipse, Visual Studio Code, Git, GitHub, Jira, Qase e Jenkins
+
+💡 **Outras habilidades:** Técnicas de teste, documentação e prototipagem
+
+🐞 **Marca Pessoal:**
+
+  Proatividade e autonomia: Sou uma profissional proativa e autônoma, que busca soluções inovadoras e toma decisões com segurança.
+  Aprendizado contínuo: Tenho grande paixão por aprender e me mantenho atualizada com as últimas tendências do mercado.
+  Comunicação eficaz: Me comunico de forma clara, objetiva e assertiva, tanto na comunicação escrita quanto oral.
+  Trabalho em equipe: Acredito no poder da colaboração e trabalho de forma integrada com a equipe para alcançar os objetivos comuns.
+
+  ##### Você me encontra em:
+  <a href="https://www.linkedin.com/in/susana-bergamo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://www.instagram.com/susana_bergamo/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+ <a href="https://www.postman.com/susanabergamo">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </a>
+  
+###### Também pode me encontra como Staff na comunidade Girls Testing em:
+
