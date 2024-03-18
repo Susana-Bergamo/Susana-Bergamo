@@ -1,5 +1,4 @@
-<h1 align="center">Welcome!</h1><img align="right" src="profile.pic.png" width="350"/>
-
+<img align="right" src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/profile.pic.jpg" width="400"/>
 
 ## Hello World! 👩🏻‍💻
 *Transformando Bugs em Sorrisos!🐞 🚀*
