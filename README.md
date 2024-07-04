@@ -37,11 +37,8 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
    <a href="https://www.instagram.com/susana_bergamo/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
- <a href="https://www.postman.com/susanabergamo">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </a>
-  
-###### Também pode me encontra como Staff na comunidade Girls Testing em:
+   
+###### Também pode me encontra como uma das administradoras da comunidade Girls Testing em:
 <a href="https://www.instagram.com/girls.testing/">
    <img src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/Subcabe%C3%A7alho.jpg" width="50"/>
   </a>
