@@ -11,7 +11,7 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
 
 🔍 **Minha experiência:**
 
-  [CV](https://www.canva.com/design/DAF_274Vyew/bwVCUuu1Ca3bhOTWJ0O7-Q/view?utm_content=DAF_274Vyew&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
+  [CV](https://www.canva.com/design/DAGRIZN2H6g/eYhdjMrO4-9-TWB0VJRQYQ/edit?utm_content=DAGRIZN2H6g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
  Especialista em testes: Possuo vasta experiência na realização de testes manuais e automatizados, utilizando diferentes metodologias e ferramentas.
  Metodologias ágeis: Atuei em projetos com metodologia Scrum, participando ativamente de todas as cerimônias (Planning, Daily, Retro e Review).
 
