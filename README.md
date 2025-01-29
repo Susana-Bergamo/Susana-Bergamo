@@ -1,49 +1,75 @@
-<img align="right" src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/profile.pic.jpg" width="300"/>
+<div align="center">
+  <img src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/susana_bergamo%20logo.png" width="350"/>
+</div>
 
-## Hello World! 👩🏻‍💻
-*Transformando Bugs em Sorrisos!🐞 🚀*
-*🔍 Especialista em Quality Assurance | Testes de Software 🔍*
+<div align="center">
+  <h2>Hello World! Eu sou a Susana. 👩🏻‍💻</h2>
+  <p><em>🔍 Evangelizadora da Qualidade 🐞</em></p>
+  <p>Qualidade não é acidente, é resultado de um trabalho bem feito. – Henry Ford</p>
+</div>
 
+---
+## Sobre Mim
+Sou apaixonada por desafios, aprendizado contínuo e inovação! Minha trajetória começou no atendimento ao cliente, evoluindo para QA com o mesmo objetivo: garantir que os produtos não apenas funcionem, mas encantem.
 
-💁🏻‍♀️ **Sobre mim**
+Atualmente, sou uma das administradoras da **Girls Testing**, onde contribuo ativamente para apoiar e fortalecer a presença feminina na área de testes de software.
 
-Apaixonada por desafios e aprendizado constante, sou uma profissional proativa que busca soluções inovadoras e entrega resultados de alto valor. Acredito na colaboração e no aprendizado mútuo, sempre buscando contribuir de forma significativa para o crescimento da equipe e da empresa.
+Busco soluções que agreguem valor, prezando pela colaboração e pelo crescimento mútuo com minha equipe e comunidade.
 
-🔍 **Minha experiência:**
+## Habilidades Técnicas
+### Automação de Testes
+- **Ferramentas:** Robot Framework, Selenium WebDriver, JUnit, Cucumber, RestAssured
+- **Práticas:** Page Objects, BDD (Behavior-Driven Development)
 
-  [CV](https://www.canva.com/design/DAGRIZN2H6g/eYhdjMrO4-9-TWB0VJRQYQ/edit?utm_content=DAGRIZN2H6g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
- Especialista em testes: Possuo vasta experiência na realização de testes manuais e automatizados, utilizando diferentes metodologias e ferramentas.
- Metodologias ágeis: Atuei em projetos com metodologia Scrum, participando ativamente de todas as cerimônias (Planning, Daily, Retro e Review).
+### Programação
+- **Linguagens:** Java (Spring Boot), JavaScript (básico)
+- **Práticas:** POO, Clean Code
 
-⚙ **Habilidades técnicas:** Linguagens de programação: Java e JavaScript (básico)
+### Controle de Versão
+- **Ferramentas:** Git, GitHub
+- **Práticas:** Branching, CI/CD (Jenkins, GitHub Actions)
 
-✅ **Tecnologias de teste:** Selenium, CodeceptJS, Restassured, Cucumber Options e Page Objects
+### Metodologias Ágeis
+- **Participação Ativa:** Dailies, Plannings, Reviews, Retrospectivas
+- **Ferramentas:** Jira, Qase
 
-✅ **Ferramentas:** Postman, JUnit, Eclipse, Visual Studio Code, Git, GitHub, Jira, Qase e Jenkins
+### Configuração e CI/CD
+- **Configuração de Ambiente:** Drivers e ferramentas de automação
+- **CI/CD:** Jenkins, GitHub Actions
 
-💡 **Outras habilidades:** Técnicas de teste, documentação e prototipagem
+## Minha Marca Pessoal
+- **Determinação:** Sempre em busca de aprendizado contínuo.
+- **Autenticidade:** Transparência nas dúvidas e vontade de superá-las.
+- **Organização:** Clareza nas ideias e execução metódica.
+- **Empatia:** Boa comunicação e trabalho em equipe como pilares.
+- **Resiliência:** Transformo desafios em oportunidades de crescimento.
 
-🐞 **Marca Pessoal:**
+## Experiência e Projetos
+- **Testes Manuais e Automatizados:** Expertise em metodologias e ferramentas diversas.
+- **Metodologias Ágeis:** Atuação em projetos Scrum, com participação em todas as cerimônias.
+- **Ferramentas:** Robot Framework, Postman, JUnit, Eclipse, Jira, Qase, Jenkins.
 
-  Proatividade e autonomia: Sou uma profissional proativa e autônoma, que busca soluções inovadoras e toma decisões com segurança.
-  Aprendizado contínuo: Tenho grande paixão por aprender e me mantenho atualizada com as últimas tendências do mercado.
-  Comunicação eficaz: Me comunico de forma clara, objetiva e assertiva, tanto na comunicação escrita quanto oral.
-  Trabalho em equipe: Acredito no poder da colaboração e trabalho de forma integrada com a equipe para alcançar os objetivos comuns.
+## 📫 Vamos Conversar?
+Se você busca uma QA apaixonada por qualidade e inovação, vamos conversar!
 
-  ##### Você me encontra em:
-  <a href="https://www.linkedin.com/in/susana-bergamo/">
+<div align="center">
+  <a href="https://www.linkedin.com/in/susanabergamo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://www.instagram.com/susana_bergamo/">
+  <a href="https://www.instagram.com/susana_bergamo/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-   
-###### Também pode me encontra como uma das administradoras da comunidade Girls Testing em:
-<a href="https://www.instagram.com/girls.testing/">
-   <img src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/Subcabe%C3%A7alho.jpg" width="50"/>
-  </a>
- <a href="https://www.youtube.com/@GirlsTesting">
+  <a href="https://www.youtube.com/@GirlsTesting">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
+</div>
+
+## Venha conferir a comunidade que administro!
+<div align="center">
+  <a href="https://www.girlstesting.net/">
+    <img src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/girls.jpg" width="150"/>
+  </a>
+  <p><strong>Girls Testing</a></strong>: Uma comunidade incrível para fortalecer a presença feminina na área de testes de software.</p>
+</div>
 
 
