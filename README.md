@@ -1,19 +1,12 @@
 <div align="center">
-  <img src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/susana_bergamo%20logo.png" width="350"/>
-</div>
-
-<div align="center">
   <h2>Hello World! Eu sou a Susana. 👩🏻‍💻</h2>
   <p><em>🔍 Evangelizadora da Qualidade 🐞</em></p>
   <p>Qualidade não é acidente, é resultado de um trabalho bem feito. – Henry Ford</p>
 </div>
 
----
 ## Sobre Mim
 Sou apaixonada por desafios, aprendizado contínuo e inovação! Minha trajetória começou no atendimento ao cliente, evoluindo para QA com o mesmo objetivo: garantir que os produtos não apenas funcionem, mas encantem.
-
 Atualmente, sou uma das administradoras da **Girls Testing**, onde contribuo ativamente para apoiar e fortalecer a presença feminina na área de testes de software.
-
 Busco soluções que agreguem valor, prezando pela colaboração e pelo crescimento mútuo com minha equipe e comunidade.
 
 ## Habilidades Técnicas
