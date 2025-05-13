@@ -6,8 +6,8 @@
 
 ## Sobre Mim
 Sou apaixonada por desafios, aprendizado contínuo e inovação! Minha trajetória começou no atendimento ao cliente, evoluindo para QA com o mesmo objetivo: garantir que os produtos não apenas funcionem, mas encantem.
-Atualmente, sou uma das administradoras da **Girls Testing**, onde contribuo ativamente para apoiar e fortalecer a presença feminina na área de testes de software.
-Busco soluções que agreguem valor, prezando pela colaboração e pelo crescimento mútuo com minha equipe e comunidade.
+Atualmente, sou QA na  **Avanade Brasil**. Tenho como missão, contribuir ativamente para apoiar e fortalecer a presença feminina na área de testes de software.
+Busco soluções que agreguem valor, prezando pela colaboração e pelo crescimento mútuo com minha equipe e comunidade que venho criando.
 
 ## Habilidades Técnicas
 ### Automação de Testes
@@ -43,7 +43,7 @@ Busco soluções que agreguem valor, prezando pela colaboração e pelo crescime
 - **Ferramentas:** Robot Framework, Postman, JUnit, Eclipse, Jira, Qase, Jenkins.
 
 ## 📫 Vamos Conversar?
-Se você busca uma QA apaixonada por qualidade e inovação, vamos conversar!
+Se você busca uma oportunidade nesse mundão que é Testes de Software, pega um café (ou o que preferir) e vamos nos conectar!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/susanabergamo/">
@@ -55,14 +55,6 @@ Se você busca uma QA apaixonada por qualidade e inovação, vamos conversar!
   <a href="https://www.youtube.com/@qadapraia">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-</div>
-
-## Venha conferir a comunidade que administro!
-<div align="center">
-  <a href="https://www.girlstesting.net/">
-    <img src="https://github.com/Susana-Bergamo/Susana-Bergamo/blob/main/girls.jpg" width="150"/>
-  </a>
-  <p><strong>Girls Testing</a></strong>: Uma comunidade incrível para fortalecer a presença feminina na área de testes de software.</p>
 </div>
 
 
